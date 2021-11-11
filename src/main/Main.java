@@ -50,4 +50,8 @@ public class Main {
         }
     }
 
+    public static  void someMeth(){
+        System.out.println("Hello");
+    }
+
 }
