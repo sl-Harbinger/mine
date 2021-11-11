@@ -15,7 +15,7 @@ public class Main {
             for (int i = 0; i < k; i++) {
                 int y = sc.nextInt();
                 int x = sc.nextInt();
-
+//gпроветка
                 a[y - 1][x - 1]++;
                 a[y - 1][x]++;
                 a[y - 1][x + 1]++;
